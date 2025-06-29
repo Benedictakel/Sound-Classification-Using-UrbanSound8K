@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 4. **Download UrbanSound8K dataset**
 
-* Download from [UrbanSound8K official page](https://urbansounddataset.weebly.com/urbansound8k.html)
+* Download from [UrbanSound8K official page](https://)
 * Extract into a `data/UrbanSound8K/` directory in the project folder.
 
 5. **Launch Jupyter Notebook**
@@ -153,7 +153,6 @@ Sound-Classification-Using-UrbanSound8K/
 * **Validation Accuracy:** *e.g. 80% (sample value)*
 * **Confusion Matrix:** Shows performance across all 10 classes
 
-> *(Replace sample values with your actual results after training.)*
 
 The model achieves good performance, effectively classifying urban sounds with high accuracy and generalization.
 
